@@ -1,23 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import { lazy, useEffect, Suspense } from "react";
+import { BrowserRouter } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
+
+const Home = lazy(() => import("./pages/Home"));
+const MostPopular = lazy(() => import("./pages/MostPopular"));
+const UesrProfile = lazy(() => import("./pages/UserProfile"));
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Suspense fallback={null}>
+        <BrowserRouter>
+          <Routes>
+            <Route exact path="/" element={<Home />} />
+            <Route path="/:username" element={<UesrProfile />} />
+            <Route path="/most-popular" element={<MostPopular />} />
+          </Routes>
+        </BrowserRouter>
+      </Suspense>
     </div>
   );
 }
