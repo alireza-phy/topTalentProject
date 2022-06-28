@@ -13,7 +13,7 @@ This experimental project was created for top Talent Co.
 
 in this project you can enter desired gitHub account name in address bar or in the input box in home page, and then see the list of its repositories.
 
-also in most popular tab, you can see a table with a list of top 10 most popular accounts in gitHub with the most stars gaind. in that table you can sort and filter results.
+also in '/most-popular' address, you can see a table with a list of top 10 most popular accounts in gitHub with the most stars gaind. in that table you can sort and filter results.
 
 # Getting Started with Create React App
 
