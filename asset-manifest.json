@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/topTalentProject/static/css/main.e6c13ad2.css",
+    "main.js": "/topTalentProject/static/js/main.dfa9e303.js",
+    "static/js/266.3d1d7dd6.chunk.js": "/topTalentProject/static/js/266.3d1d7dd6.chunk.js",
+    "static/js/773.422908dc.chunk.js": "/topTalentProject/static/js/773.422908dc.chunk.js",
+    "static/js/55.9b6b7067.chunk.js": "/topTalentProject/static/js/55.9b6b7067.chunk.js",
+    "static/js/787.2b635a7b.chunk.js": "/topTalentProject/static/js/787.2b635a7b.chunk.js",
+    "static/js/425.9b6ac66d.chunk.js": "/topTalentProject/static/js/425.9b6ac66d.chunk.js",
+    "static/js/908.5a729357.chunk.js": "/topTalentProject/static/js/908.5a729357.chunk.js",
+    "static/js/670.7327e6fb.chunk.js": "/topTalentProject/static/js/670.7327e6fb.chunk.js",
+    "index.html": "/topTalentProject/index.html",
+    "main.e6c13ad2.css.map": "/topTalentProject/static/css/main.e6c13ad2.css.map",
+    "main.dfa9e303.js.map": "/topTalentProject/static/js/main.dfa9e303.js.map",
+    "266.3d1d7dd6.chunk.js.map": "/topTalentProject/static/js/266.3d1d7dd6.chunk.js.map",
+    "773.422908dc.chunk.js.map": "/topTalentProject/static/js/773.422908dc.chunk.js.map",
+    "55.9b6b7067.chunk.js.map": "/topTalentProject/static/js/55.9b6b7067.chunk.js.map",
+    "787.2b635a7b.chunk.js.map": "/topTalentProject/static/js/787.2b635a7b.chunk.js.map",
+    "425.9b6ac66d.chunk.js.map": "/topTalentProject/static/js/425.9b6ac66d.chunk.js.map",
+    "908.5a729357.chunk.js.map": "/topTalentProject/static/js/908.5a729357.chunk.js.map",
+    "670.7327e6fb.chunk.js.map": "/topTalentProject/static/js/670.7327e6fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.dfa9e303.js"
+  ]
+}
